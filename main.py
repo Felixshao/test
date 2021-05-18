@@ -1,4 +1,4 @@
 
 if __name__ == '__main__':
 
-    print('本地')
+    print('本地2')
